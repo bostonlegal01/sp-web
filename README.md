@@ -9,4 +9,4 @@
 ##ファイル構成
 
 ## Release Method
-test
+test case
